@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">simple_interest</string>
+    <string name="signup_form_name">SignupForm</string>
+
+    <string-array name="city_array">
+        <item>Select City</item>
+        <item>New York</item>
+        <item>Los Angeles</item>
+        <item>Chicago</item>
+        <item>Houston</item>
+        <item>Miami</item>
+    </string-array>
 </resources>
