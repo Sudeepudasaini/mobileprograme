@@ -1,7 +1,7 @@
 package com.example.simple_interest;
 
 public class DataModel {
-
+    private int id;
     private String name;
     private String address;
 
